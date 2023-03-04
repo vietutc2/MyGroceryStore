@@ -13,6 +13,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.mygrocerystore.MainActivity;
 import com.example.mygrocerystore.R;
 import com.example.mygrocerystore.models.UserModel;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -96,6 +97,7 @@ public class RegistrationActivity extends AppCompatActivity {
 
 
                             Toast.makeText(RegistrationActivity.this, "Registration Succesfull", Toast.LENGTH_SHORT).show();
+                            startActivity(new Intent(RegistrationActivity .this, MainActivity.class));
                         }
                         else {
                             progressBar.setVisibility(View.GONE);

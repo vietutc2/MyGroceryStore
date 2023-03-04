@@ -11,7 +11,7 @@
         android:id="@+id/reg_img"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:src="@mipmap/regbg"
+        android:src="@mipmap/loginbg"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintEnd_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

@@ -28,7 +28,9 @@
             android:exported="false" />
         <activity
             android:name=".activities.GeneralityActivity"
-            android:exported="true"></activity> <!-- lam sao o day lai co 2 cai <intent-filter>  ?????? -->
+            android:exported="true">
+
+        </activity> <!-- lam sao o day lai co 2 cai <intent-filter>  ?????? -->
         <activity
             android:name=".activities.RegistrationActivity"
             android:exported="true">

@@ -18,8 +18,8 @@ public class GeneralityActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_generality);
-        startActivity(new Intent(GeneralityActivity.this, MainActivity.class));
-        finish();
+//     startActivity(new Intent(GeneralityActivity.this,MainActivity.class));
+//       finish();
     }
 
     public void login(View view) {
