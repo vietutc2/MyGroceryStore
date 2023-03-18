@@ -8,20 +8,22 @@
 - MVVC Architecture.
 - etc...
 
-**Description and Functions**:
-* We can request for storage permission.
-* We can list all the music files from storage.
-* Implement recycler view.
-* Open music files programatically.
-* Use MediaPlayer in android.
-* Play Music in Android.
-* Add pause,play controls. 
-* etc...
+**Description**:
+* This app provides a full range of items such as groceries.
+* Fast and accurate access speed.
+* User-friendly interface.
+* Simple operation, easy to use.
+
+**Functions**:
+* Sign in, Sign up.
+* Update profile.
+* Add to cart
+
 
 **Future Development**
-* Create Playlist songs.
-* Search songs.
-* Add songs to favorites.
-* Comment
+* Add to favorites.
+* Product comments.
+* ship the product to the customer's location
 * etc...
 
+![image](https://user-images.githubusercontent.com/57392339/226092797-94128677-8784-4975-8c57-40039ca40693.png)
