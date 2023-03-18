@@ -26,4 +26,6 @@
 * ship the product to the customer's location
 * etc...
 
-![image](https://user-images.githubusercontent.com/57392339/226092797-94128677-8784-4975-8c57-40039ca40693.png)
+![image](https://user-images.githubusercontent.com/57392339/226095304-0b24001b-c670-4913-b398-32e5816409f1.png)
+
+![image](https://user-images.githubusercontent.com/57392339/226092900-c6f0e485-14b5-4592-8cc9-49ac612431cc.png)
